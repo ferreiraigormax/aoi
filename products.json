@@ -1,0 +1,37 @@
+[
+  {
+    "id": "placa-nfc-google",
+    "title": "Placa NFC Google",
+    "category": "nfc",
+    "description": "Facilite o acesso dos clientes à página de avaliação da sua empresa.",
+    "price": "Sob consulta"
+  },
+  {
+    "id": "placa-nfc-social",
+    "title": "Placa NFC personalizada",
+    "category": "nfc",
+    "description": "Direcione clientes para contatos, redes sociais ou outros links.",
+    "price": "Sob consulta"
+  },
+  {
+    "id": "chaveiros",
+    "title": "Chaveiros personalizados",
+    "category": "personalizados",
+    "description": "Brindes com cores, formatos e identidade visual da sua marca.",
+    "price": "Sob consulta"
+  },
+  {
+    "id": "brindes",
+    "title": "Brindes corporativos",
+    "category": "personalizados",
+    "description": "Peças para eventos, ações promocionais e relacionamento com clientes.",
+    "price": "Sob consulta"
+  },
+  {
+    "id": "display",
+    "title": "Displays personalizados",
+    "category": "personalizados",
+    "description": "Apresente produtos e informações com uma peça feita para seu espaço.",
+    "price": "Sob consulta"
+  }
+]
