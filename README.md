@@ -11,7 +11,8 @@ Site institucional responsivo para a AOI, com foco em soluções 3D para empresa
 - `styles.css`: identidade visual e responsividade
 - `app.js`: catálogo, busca, filtros, menu mobile e integração com WhatsApp
 - `products.json`: referência editável do catálogo (o catálogo demonstrativo atual está definido no início de `app.js`)
-- `assets/`: pasta reservada para fotos reais, logo e outros recursos
+- `assets/aoi-logo.png`: logo geométrica AOI com fundo transparente
+- `assets/`: pasta para fotos reais e outros recursos
 
 ## Antes de publicar
 1. Abra `app.js`.

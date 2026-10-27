@@ -3,7 +3,7 @@
  * IMPORTANTE: substitua WHATSAPP_NUMBER pelo número comercial com código do país,
  * DDD e número, somente dígitos. Exemplo de formato: 5511999999999.
  */
-const WHATSAPP_NUMBER = "5516992401080";
+const WHATSAPP_NUMBER = "5511999999999";
 
 const products = [
   {
